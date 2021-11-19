@@ -1,4 +1,4 @@
-![Banner DeltaFolha](/images/banner.jpeg)
+![Banner DeltaFolha](/images/banner.jpg)
 
 ## DeltaFolha :bar_chart:
 
